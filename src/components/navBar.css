@@ -1,0 +1,7 @@
+.navbar-logo-image {
+    position: absolute;  /* This will make the image positioned relative to the nearest positioned ancestor */
+    top: 0;             /* This will position it at the top of the container */
+    left: 0;            /* This will position it at the left of the container */
+    height: 90px;       /* Adjust as necessary to change the logo size */
+    width: auto;        /* This will keep the aspect ratio of your image */
+}
